@@ -255,4 +255,4 @@ MIT
 **Your Name**
 - GitHub: [@yourusername](https://github.com/yourusername)
 - Email: your.email@example.com
-- Portfolio: https://yourportfoli
+- Portfolio: https://yourportfolio.com
